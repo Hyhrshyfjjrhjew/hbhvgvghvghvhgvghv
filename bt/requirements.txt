@@ -1,0 +1,9 @@
+Pyrofork
+TgCrypto
+Pyleaves
+python-dotenv
+psutil
+pillow
+telethon
+yt-dlp
+aria2p
